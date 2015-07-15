@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActiveAndroid Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="coach_1">Coach1</string>
+    <string name="coach_2">Coach2</string>
+    <string name="owner_header">Owners pokemon:</string>
+    <string name="all_pokemon_header">All pokemons:</string>
+
+</resources>
